@@ -9,3 +9,5 @@ Sat Jun 03 2017 15:56:03 GMT-0300 (-03): GET /help.html
 Mon Jun 05 2017 13:14:50 GMT-0300 (-03): GET /
 Mon Jun 05 2017 13:14:50 GMT-0300 (-03): GET /favicon.ico
 Mon Jun 05 2017 13:15:01 GMT-0300 (-03): GET /about
+Mon Jun 05 2017 13:50:50 GMT-0300 (-03): GET /
+Mon Jun 05 2017 13:50:55 GMT-0300 (-03): GET /about
