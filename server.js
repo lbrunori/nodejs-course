@@ -4,6 +4,8 @@ const fs = require('fs');
 
 var app = express();
 
+const port = process.env.PORT || 3000;
+
 //para las configuraciones
 app.set('view engine', 'hbs');
 
@@ -57,7 +59,6 @@ app.get('/bad', (request, response) => {
     })
 });
 
-const port = process.env.PORT || 3000;
-app.listen(port, 'localhost', () => {
+app.listen(port,  () => {
     console.log(`Listening on port ${port}`);
 })
